@@ -5,3 +5,6 @@ tiva_test.ewd
 tiva_test.ewp
 tiva_test.ewt
 tiva_test.eww
+modules.xml
+tiva_test.iml
+vcs.xml
